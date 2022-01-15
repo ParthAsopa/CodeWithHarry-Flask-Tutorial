@@ -1,0 +1,12 @@
+{
+    "params":{
+        "local_server":"True",
+        "name":"Blog",
+        "tag_line":"A True Blogging Website",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/blog",
+        "fb_url":"https://facebook.com/blog",
+        "tw_url":"https://twitter.com/blog",
+        "gh_url":"https://github.com/blog"
+    }
+}
